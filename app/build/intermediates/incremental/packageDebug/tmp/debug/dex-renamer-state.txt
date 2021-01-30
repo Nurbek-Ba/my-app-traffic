@@ -1,0 +1,4 @@
+#Sat Jan 30 11:47:12 CET 2021
+base.0=C\:\\Users\\nurbe\\AndroidStudioProjects\\Trafficlight\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

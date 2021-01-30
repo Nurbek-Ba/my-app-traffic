@@ -1,0 +1,5 @@
+com/example/trafficlight/MainActivity.java
+ com.example.trafficlight.MainActivity
+ com.example.trafficlight.MainActivity$1
+com/example/trafficlight/BuildConfig.java
+ com.example.trafficlight.BuildConfig
